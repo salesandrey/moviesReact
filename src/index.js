@@ -5,7 +5,7 @@ import './index.css';
 
 // Componentes
 import App from './App';
-import Footer from './components/Footer/index';
+
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));

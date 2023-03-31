@@ -1,8 +1,8 @@
 import "./footer.css";
-import { useLocation } from 'react-router-dom';
+
 
 export default function Footer() {
-    const location = useLocation();
+    
 
     return (
         <div className="container">
