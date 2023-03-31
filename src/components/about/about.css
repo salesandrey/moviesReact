@@ -1,0 +1,29 @@
+.flex-parent-element {
+    display: inline-flex;
+    justify-content: center;
+}
+
+.flex-child-element {
+    flex: 1;
+    justify-content: center;
+    margin: 10px;
+}
+
+img {
+    border: 2px solid white;
+    border-radius: 3%;
+    
+}
+
+h2 {
+    color: white;
+}
+
+p {
+    color: white;
+    text-align: justify;
+}
+
+.logo {
+    margin-left: 5%;
+}

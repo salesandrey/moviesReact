@@ -1,0 +1,22 @@
+.title-plan{
+    color:white;
+}
+
+.element-description {
+    color: white;
+    text-align: left;
+}
+
+.button-plans {
+    background-color: #6497B1;
+    line-height: 2.5;
+    padding: 0 30px;
+    border-radius: 20px;
+    color: black;
+}
+
+.plans-border{
+    border: 2px solid white;
+    padding: 20px;
+    border-radius: 3%;
+}
